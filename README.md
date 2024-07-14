@@ -1,5 +1,5 @@
 Nicolas:
-Esta es la subida con lo armado localmente en Xampp
+Esta es la subida con lo armado localmente en Xampp (Version final en Final24145, la de CuevaPeli es lo que subi ayer y ya corregi hoy dejandolo en Final24145)
 En carpeta Video se encuentra el mp4 mostrando el funcionamiento local con Xampp
 
 Ingresé en Mayo para Back End
